@@ -1,5 +1,5 @@
-# Software-Testing-and-Validation
-This is a record for my Software Testing and Validation course.
+# Software-Testing-and-Verification
+This is a record for my Software Testing and Verification course.
 
 ## Presentation
 ### Is Mutation an Appropriate Tool for Testing Experiments?
