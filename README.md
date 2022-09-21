@@ -6,3 +6,6 @@ This is a record for my Software Testing and Verification course.
 Here are some resources that related to this paper:
 - [ACM DIGITAL LIBRARY](https://dl.acm.org/doi/10.1145/1062455.1062530)
 - [PDF](https://dl.acm.org/doi/pdf/10.1145/1062455.1062530)
+
+## BinarySearch.dfy
+Use Dafny to conduct software verification with an example of Binary Search.
