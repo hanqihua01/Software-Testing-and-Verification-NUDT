@@ -2,10 +2,13 @@
 This is a record of my Software Testing and Verification course.
 
 ## Presentation
-### Is Mutation an Appropriate Tool for Testing Experiments?
-Here are some resources that related to this paper:
-- [ACM DIGITAL LIBRARY](https://dl.acm.org/doi/10.1145/1062455.1062530)
-- [PDF](https://dl.acm.org/doi/pdf/10.1145/1062455.1062530)
+Is Mutation an Appropriate Tool for Testing Experiments.pdf is the original paper.
+
+Is Mutation an Appropriate Tool for Testing Experiments.pptx is my presentation after reading the paper.
 
 ## BinarySearch.dfy
 Use Dafny to conduct software verification with an example of Binary Search.
+
+## NQueens.py
+
+A Z3-based solution to n-queens problem.
